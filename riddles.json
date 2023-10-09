@@ -1,11 +1,13 @@
 [
   {
     "question": "I am a famous equation used to describe the relationship between energy, mass, and speed?",
-    "answer": "E=MC^2"
+    "options": ["A. E=MC^2", "B. The Steady State Theory", "C. The Multiverse Theory"],
+    "CorrectAnswer": "A"
   },
   {
     "question": "I am a process that occurs deep within the earth’s mantle, where solid rock flows slowly over geological time.",
-    "answer": "convection"
+    "options": ["A. convection", "B. The Steady State Theory", "C. The Multiverse Theory"],
+    "correctAnswer": "A"
   },
   {
     "question": "I am a theoretical concept in cosmology that suggests the universe is expanding from a single, incredibly hot and dense point in the past",
