@@ -2,61 +2,61 @@
   {
     "question": "I am a famous equation used to describe the relationship between energy, mass, and speed?",
     "options": ["A. E=MC^2", "B. The Steady State Theory", "C. The Multiverse Theory"],
-    "correctAnswer": "A"
+    "correctAnswer": "A. E=MC^2"
   },
   {
     "question": "I am a process that occurs deep within the earth’s mantle, where solid rock flows slowly over geological time.",
     "options": ["A. convection", "B. The Steady State Theory", "C. The Multiverse Theory"],
-    "correctAnswer": "A"
+    "correctAnswer": "A. convection"
   },
   {
     "question": "I am a theoretical concept in cosmology that suggests the universe is expanding from a single, incredibly hot and dense point in the past",
     "options": ["A. The Big Bang Theory", "B. The Steady State Theory", "C. The Multiverse Theory"],
-    "correctAnswer": "A"
+    "correctAnswer": "A. The Big Bang Theory"
   },
   {
     "question": "I am a popular law of physics that states that for every action there is an equal and opposite reaction",
     "options": ["A. Newton's First Law", "B. Newton's Second Law", "C. Newton's Third Law"],
-    "correctAnswer": "C"
+    "correctAnswer": "C. Newton's Third Law"
   },
   {
     "question": "I am that process that converts light into energy",
     "options": ["A. Photosynthesis", "B. Respiration", "C. Combustion"],
-    "correctAnswer": "A"
+    "correctAnswer": "A. Photosynthesis"
   },
   {
     "question": "I am the smallest unit of an element that retains its chemical constituents",
     "options": ["A. Atom", "B. Molecule", "C. Proton"],
-    "correctAnswer": "A"
+    "correctAnswer": "A. Atom"
   },
   {
     "question": "I am a celestial body composed mainly of frozen gas and dust, often referred to as dirty snowballs",
     "options": ["A. Planet", "B. Asteroid", "C. Comet"],
-    "correctAnswer": "C"
+    "correctAnswer": "C. Comet"
   },
   {
     "question": "I am the force responsible for an object's resistance to changes in motion",
     "options": ["A. Gravity", "B. Friction", "C. Inertia"],
-    "correctAnswer": "C"
+    "correctAnswer": "C. Inertia"
   },
   {
     "question": "I am the process by which plants convert carbon dioxide and water into glucose and oxygen using energy from the sun.",
     "options": ["A. Respiration", "B. Photosynthesis", "C. Fermentation"],
-    "correctAnswer": "B"
+    "correctAnswer": "B. Photosynthesis"
   },
   {
     "question": "I am the layer of the Earth's atmosphere that contains the ozone layer and protects us from harmful ultraviolet (UV) radiation.",
     "options": ["A. Troposphere", "B. Stratosphere", "C. Mesosphere"],
-    "correctAnswer": "B"
+    "correctAnswer": "B. Stratosphere"
   },
   {
     "question": "I am the chemical element with the symbol 'Fe' and am essential for the formation of hemoglobin in red blood cells.",
     "options": ["A. Iron", "B. Gold", "C. Silver"],
-    "correctAnswer": "A"
+    "correctAnswer": "A. Iron"
   },
   {
     "question": "I am a fundamental force of nature responsible for the attraction between two masses and the reason objects fall to the ground.",
     "options": ["A. Magnetism", "B. Electricity", "C. Gravity"],
-    "correctAnswer": "C"
+    "correctAnswer": "C. Gravity"
   }
 ]
