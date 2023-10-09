@@ -1,13 +1,12 @@
 [
   {
-    "question": "I am a famous equation used to describe the relationship between energy, mas and speed ?",
+    "question": "I am a famous equation used to describe the relationship between energy, mass, and speed?",
     "answer": "E=MC^2"
   },
   {
-    "question": "I am a process that occurs deep within the earth’s mantle, where solid rock flows slowly over geological time",
+    "question": "I am a process that occurs deep within the earth’s mantle, where solid rock flows slowly over geological time.",
     "answer": "convection"
   },
- [
   {
     "question": "I am a theoretical concept in cosmology that suggests the universe is expanding from a single, incredibly hot and dense point in the past",
     "options": ["A. The Big Bang Theory", "B. The Steady State Theory", "C. The Multiverse Theory"],
@@ -38,7 +37,7 @@
     "options": ["A. Gravity", "B. Friction", "C. Inertia"],
     "correctAnswer": "C"
   },
-   {
+  {
     "question": "I am the process by which plants convert carbon dioxide and water into glucose and oxygen using energy from the sun.",
     "options": ["A. Respiration", "B. Photosynthesis", "C. Fermentation"],
     "correctAnswer": "B"
