@@ -2,7 +2,7 @@
   {
     "question": "I am a famous equation used to describe the relationship between energy, mass, and speed?",
     "options": ["A. E=MC^2", "B. The Steady State Theory", "C. The Multiverse Theory"],
-    "CorrectAnswer": "A"
+    "correctAnswer": "A"
   },
   {
     "question": "I am a process that occurs deep within the earth’s mantle, where solid rock flows slowly over geological time.",
